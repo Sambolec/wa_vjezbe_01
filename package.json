@@ -1,0 +1,21 @@
+{
+  "name": "-y",
+  "version": "1.0.0",
+  "description": "-y",
+  "main": "index.js",
+  "scripts": {
+    "test": "-y"
+  },
+  "repository": {
+    "type": "git",
+    "url": "-y"
+  },
+  "keywords": [
+    "-y"
+  ],
+  "author": "dominik",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
